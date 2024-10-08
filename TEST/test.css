@@ -1,0 +1,22 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+.table-responsive{
+    background-color: black;
+    color: white;    
+    
+}
+
+#table{
+    display: flex;
+    flex-direction: row; /* Aligns items in a row */
+    justify-content: space-between; /* Distributes space between items */
+    align-items: center; 
+}
+
+.page{
+    border: 2px solid white;
+  
+}
